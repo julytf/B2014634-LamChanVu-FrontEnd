@@ -50,7 +50,8 @@ export default {
         ContactCard,
         InputSearch,
         ContactList,
-    }, data() {
+    },
+    data() {
         return {
             contacts: [],
             activeIndex: -1,
